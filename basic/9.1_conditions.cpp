@@ -1,4 +1,4 @@
-#include <iostream>
+ï»¿#include <iostream>
 using namespace std;
 
 /*
@@ -10,18 +10,18 @@ int main() {
 
 	int a;
 
-	cout << "Óêàæèòå ÷èñëî: ";
+	cout << "Ð£ÐºÐ°Ð¶Ð¸Ñ‚Ðµ Ñ‡Ð¸ÑÐ»Ð¾: ";
 	cin >> a;
 
 
 	if (a > 5) {
-		cout << "Âàøå ÷èñëî áîëüøå 5" << endl;
+		cout << "Ð’Ð°ÑˆÐµ Ñ‡Ð¸ÑÐ»Ð¾ Ð±Ð¾Ð»ÑŒÑˆÐµ 5" << endl;
 	}
 	else if(a == 5) {
-		cout << "Âàøå ÷èñëî ðàâíî 5" << endl;
+		cout << "Ð’Ð°ÑˆÐµ Ñ‡Ð¸ÑÐ»Ð¾ Ñ€Ð°Ð²Ð½Ð¾ 5" << endl;
 	}
 	else {
-		cout << "Âàøå ÷èñëî ìåíüøå 5" << endl;
+		cout << "Ð’Ð°ÑˆÐµ Ñ‡Ð¸ÑÐ»Ð¾ Ð¼ÐµÐ½ÑŒÑˆÐµ 5" << endl;
 	}
 
 	return 0;

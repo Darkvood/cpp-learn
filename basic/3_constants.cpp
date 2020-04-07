@@ -1,4 +1,4 @@
-#include <iostream>
+ï»¿#include <iostream>
 using namespace std;
 
 int main() {
@@ -10,7 +10,7 @@ int main() {
 
 	cout << DAYS_OF_WEEK << NEWL << "Debug: " << DEBUG;
 
-	// Îøèáêà: çíàíèå êîíñòàíòû íåèçìåíÿåìî
+	// ÐžÑˆÐ¸Ð±ÐºÐ°: Ð·Ð½Ð°Ð½Ð¸Ðµ ÐºÐ¾Ð½ÑÑ‚Ð°Ð½Ñ‚Ñ‹ Ð½ÐµÐ¸Ð·Ð¼ÐµÐ½ÑÐµÐ¼Ð¾
 	// DEBUG = true;
 
 	return 0;

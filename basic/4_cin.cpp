@@ -1,4 +1,4 @@
-#include <iostream>
+ï»¿#include <iostream>
 using namespace std;
 
 int main() {
@@ -6,16 +6,16 @@ int main() {
 
 	int num;
 
-	cout << "Ââåäèòå ÷èñëî: ";
+	cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ñ‡Ð¸ÑÐ»Ð¾: ";
 	cin >> num;
-	cout << "Âû ââåëè ÷èñëî: " << num << "\n\n";
+	cout << "Ð’Ñ‹ Ð²Ð²ÐµÐ»Ð¸ Ñ‡Ð¸ÑÐ»Ð¾: " << num << "\n\n";
 
 	int num2, num3;
 
-	cout << "Óêàæèòå 2 ÷èñëà" << endl;
+	cout << "Ð£ÐºÐ°Ð¶Ð¸Ñ‚Ðµ 2 Ñ‡Ð¸ÑÐ»Ð°" << endl;
 	cin >> num2 >> num3;
 
-	cout << "Ïåðâîå ÷èñëî: " << num2 << endl << "Âòîðîå ÷èñëî: " << num3 << endl;
+	cout << "ÐŸÐµÑ€Ð²Ð¾Ðµ Ñ‡Ð¸ÑÐ»Ð¾: " << num2 << endl << "Ð’Ñ‚Ð¾Ñ€Ð¾Ðµ Ñ‡Ð¸ÑÐ»Ð¾: " << num3 << endl;
 
 
 	return 0;

@@ -1,4 +1,4 @@
-#include <iostream>
+ï»¿#include <iostream>
 using namespace std;
 
 int main() {
@@ -6,12 +6,12 @@ int main() {
 
 	int a, b, c;
 
-	cout << "Óêàæèòå 3 ÷èñëà:\n";
+	cout << "Ð£ÐºÐ°Ð¶Ð¸Ñ‚Ðµ 3 Ñ‡Ð¸ÑÐ»Ð°:\n";
 	cin >> a >> b >> c;
 
-	cout << "Ñóììà ÷èñåë: " << a + b + c << endl;
-	cout << "Ïðîèçâåäåíèå ÷èñåë: " << a * b * c << endl;
-	cout << "Ñðåäíåå àðèôìåòè÷åñêîå: " << (double)(a + b + c) / 3;
+	cout << "Ð¡ÑƒÐ¼Ð¼Ð° Ñ‡Ð¸ÑÐµÐ»: " << a + b + c << endl;
+	cout << "ÐŸÑ€Ð¾Ð¸Ð·Ð²ÐµÐ´ÐµÐ½Ð¸Ðµ Ñ‡Ð¸ÑÐµÐ»: " << a * b * c << endl;
+	cout << "Ð¡Ñ€ÐµÐ´Ð½ÐµÐµ Ð°Ñ€Ð¸Ñ„Ð¼ÐµÑ‚Ð¸Ñ‡ÐµÑÐºÐ¾Ðµ: " << (double)(a + b + c) / 3;
 
 	return 0;
 }
