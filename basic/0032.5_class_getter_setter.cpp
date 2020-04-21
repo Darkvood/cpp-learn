@@ -3,7 +3,7 @@
 using namespace std;
 
 /*
-	oop: getter & setter
+	getter & setter
 */
 
 class Point

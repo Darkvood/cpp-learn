@@ -3,7 +3,7 @@
 using namespace std;
 
 /*
-	oop: access modifiers
+	access modifiers
 
 	default - private
 */

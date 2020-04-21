@@ -4,7 +4,7 @@
 using namespace std;
 
 /*
-	oop: class & method
+	class & method
 */
 
 class Human
